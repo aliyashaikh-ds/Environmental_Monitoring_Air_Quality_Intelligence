@@ -1,0 +1,2 @@
+# Environmental_Monitoring_Air_Quality_Intelligence
+Team project on Environmental Monitoring Air Quality Intelligence.
